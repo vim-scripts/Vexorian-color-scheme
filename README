@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1680
+
+It uses the highlight setup I personally prefer for programming, white background, green for comments, a different color for constants, italic for strings, gray for preprocessors and bold black for keywords.
